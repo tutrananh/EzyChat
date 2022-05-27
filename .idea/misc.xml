@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/drawable/bg_common.xml" value="0.1445" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/drawable/cpn_circle.xml" value="0.1445" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1445" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/drawable/ic_send_black_36dp.xml" value="0.1445" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/layout/activity_contact.xml" value="0.264" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/layout/activity_contact_search.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/layout/activity_message.xml" value="0.16140350877192983" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/layout/component_contact_list_item.xml" value="0.536" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/layout/component_message_item_received.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/layout/component_message_item_sent.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/layout/component_search_contact_list_item.xml" value="0.4" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/layout/fragment_contact_list.xml" value="0.2" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/layout/fragment_contact_search.xml" value="0.264" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/layout/fragment_online_contact_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/tutra/Downloads/Android/EzyChat/app/src/main/res/menu/menu_navigation_bottom.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

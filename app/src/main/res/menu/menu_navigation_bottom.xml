@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Contact"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:id="@+id/mContact"/>
+    <item android:title="Online"
+        android:icon="@android:drawable/ic_menu_call"
+        android:id="@+id/mOnline"/>
+    <item android:title="Search"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:id="@+id/mSearch"/>
+</menu>
